@@ -95,3 +95,12 @@ Przygotuj raport w formacie Markdown/CSV i przekaż kuratorowi.
 
 ---
 
+💡 Wskazówki praktyczne:
+
+Każdy prompt można od razu wrzucić do folderu /Prompts/.
+
+Prompt 01 i 02 służą LLM do generacji i iteracji artefaktów.
+
+Prompt 03 i 04 służą do audytu i kontroli jakości (wewnętrzny i zewnętrzny).
+
+Wszystkie prompt są powiązane z iteracją i wersją Biblii.
